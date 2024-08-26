@@ -1,4 +1,4 @@
-package addPlace_stepDef;
+package stepDef;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
