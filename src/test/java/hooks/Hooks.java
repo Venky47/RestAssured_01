@@ -1,16 +1,13 @@
 package hooks;
 
 
-import addPlace_stepDef.AddPlaceSteps;
+import stepDef.AddPlace_stepDef.AddPlaceSteps;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
-import io.restassured.builder.ResponseSpecBuilder;
-import io.restassured.http.ContentType;
 
 import java.io.IOException;
 
 import static io.restassured.RestAssured.given;
-import static resources.Utils.requestSpecification;
 
 //pre and post condition- which runs before and after each cucumber scenarios
 public class Hooks {

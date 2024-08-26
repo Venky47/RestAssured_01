@@ -1,4 +1,4 @@
-package addPlace_stepDef;
+package stepDef.AddPlace_stepDef;
 
 import enums.APIResources;
 import io.cucumber.java.en.And;
@@ -117,4 +117,6 @@ public void addPlacePayloadWith(String name, String language, String address) th
         resspec=new ResponseSpecBuilder().expectStatusCode(200).expectContentType(ContentType.JSON).build();
 
     }
+
+
 }

@@ -5,10 +5,10 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/test/java/addPlace_featureFiles",
-        glue = {"addPlace_stepDef"},
+@CucumberOptions(features = "src/test/java/feature_files",
+        glue = {"stepDef"},
         plugin = "json:target/jsonReports/cucumber-report.json",
-        tags= "@GoogleTestAPI"
+        tags= "@ExcelSheet"
         )
 public class AddPlaceRunner {
 
