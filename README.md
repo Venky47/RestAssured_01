@@ -1,4 +1,4 @@
-RestAssuered framework
+RestAssuered framework flow diagram
 
 
-<img width="574" alt="RestAssureFrameworkFlow" src="https://github.com/user-attachments/assets/1d327c08-844b-4d35-b471-6f0e05162856">
+<img width="581" alt="RestAssuredCucumberFrameworkFlow" src="https://github.com/user-attachments/assets/b10d6bde-6434-4abe-8b2b-966ffbd20c87">
