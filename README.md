@@ -1,4 +1,5 @@
 RestAssuered framework flow diagram
 
 
-<img width="581" alt="RestAssuredCucumberFrameworkFlow" src="https://github.com/user-attachments/assets/b10d6bde-6434-4abe-8b2b-966ffbd20c87">
+
+<img width="613" alt="RestAssuredCucumberFrameworkFlow" src="https://github.com/user-attachments/assets/40029891-aa8f-43b1-b678-a7ea7f3280a6">
